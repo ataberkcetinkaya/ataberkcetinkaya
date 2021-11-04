@@ -1,6 +1,8 @@
 ###
 
 ###
+<script src="https://tryhackme.com/badge/253222"></script>
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/f2SkQ8c/berklinux.png" alt="berklinux" border="0"></a>
 
 <IMG SRC="https://i0.wp.com/un5t48l3.com/wp-content/uploads/2019/12/kali-preview-boot.gif?resize=600%2C450&ssl=1"> 
