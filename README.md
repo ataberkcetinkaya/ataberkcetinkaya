@@ -1,7 +1,7 @@
 ###
 
 ###
-<script src="https://tryhackme.com/badge/253222"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/berklinux.png" alt="TryHackMe">
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/f2SkQ8c/berklinux.png" alt="berklinux" border="0"></a>
 
