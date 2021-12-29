@@ -1,12 +1,6 @@
 ###
 
 ###
-<img src="https://tryhackme-badges.s3.amazonaws.com/berklinux.png" alt="TryHackMe">
-
-<IMG SRC="https://i0.wp.com/un5t48l3.com/wp-content/uploads/2019/12/kali-preview-boot.gif?resize=600%2C450&ssl=1"> 
-
-berklinux
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ataberkcetinkaya)  
