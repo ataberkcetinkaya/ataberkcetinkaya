@@ -62,3 +62,5 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ataberkcetinkaya)](https://github.com/ryo-ma/github-profile-trophy)
+
+![snake gif](https://github.com/ataberkcetinkaya/ataberkcetinkaya/blob/output/github-contribution-grid-snake.gif)
