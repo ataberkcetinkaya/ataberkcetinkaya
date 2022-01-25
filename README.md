@@ -4,7 +4,7 @@
 - 📫 Contact: ataberkcetinkaya@outlook.com
 
 <a href="https://www.linkedin.com/in/ataberkcetinkaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ataberkcetinkaya/" height="30" width="40" /></a>
-<a href="www.hackerrank.com/ataberkcetinkaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/ataberkcetinkaya/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ataberkcetinkaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ataberkcetinkaya/" height="30" width="40" /></a>
 
 <br></br>
 <img width="300" align="left" alt="Github" src="https://pbs.twimg.com/media/CqzJkJ_VYAA5CtM?format=jpg&name=small" />
