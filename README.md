@@ -18,7 +18,7 @@
   <li>JavaScript</li>
   <li>Java</li>
   <li>HTML & CSS</li>
-  <li>SQL (MySQL, PostgreSQL, SQLite)</li>
+  <li>SQL</li>
 </ul>
 
 <h4>OS</h4>
