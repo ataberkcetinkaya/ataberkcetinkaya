@@ -1,13 +1,9 @@
 - Ataberk Çetinkaya
-- Software Developer & Cyber Security Researcher
+- Full Stack Developer
 - Contact: ataberkcetinkaya@outlook.com
 
 <a href="https://www.linkedin.com/in/ataberkcetinkaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ataberkcetinkaya/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ataberkcetinkaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ataberkcetinkaya/" height="30" width="40" /></a>
-
-<br></br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/berklinux.png" alt="TryHackMe">
-
 <br>
 
 <h1>Skills</h1>
@@ -46,5 +42,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ataberkcetinkaya)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br></br>
-
-![snake gif](https://github.com/ataberkcetinkaya/ataberkcetinkaya/blob/output/github-contribution-grid-snake.gif)
